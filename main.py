@@ -36,7 +36,7 @@ def buscar():
 
 def estadísticas_basicas():
     print("\n--- ESTADÍSTICAS BÁSICAS ---")
-    print("Ingresa un número de acuerdo a la columna que deseas analizar:")
+    print("Ingrese un número de acuerdo a la columna que desea analizar:")
     print("0: Embarazos")
     print("1: Glucosa")
     print("2: Presión arterial")

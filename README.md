@@ -1,30 +1,30 @@
 # Trabajo-de-Entrega-1-PC
-Diabetes DATASET
+Diabetes dataset
 
-VIDEO/MENU INTERACTIVO             JUEVES 16 DE ABRIL
-- HANNAH / THOMAS
-  
-POSTER/PREGUNTAS                   LUNES 13 DE ABRIL 
-- CAMILO
+Video/Menú Interactivo             -> LUNES 13 DE ABRIL
+- Hannah Mendez/ Thomas Rincón
 
-CARGAR EL DATASET                  JUEVES 9 DE ABRIL
-- ALEJANDRO 
-  
-FUNCIONALIDAD OBLIGATORIA 1        JUEVES 9 DE ABRIL 
-- IAN
-  
-FUNCIONALIDAD OBLIGATORIA 2        LUNES 13 DE ABRIL
-- SARA
+Poster/Preguntas                   -> LUNES 13 DE ABRIL 
+- Camilo Camacho
 
-FUNCIONALIDAD OPCIONAL             LUNES 13 DE ABRIL
-- DAVID
+Cargar el dataset                  -> JUEVES 9 DE ABRIL
+- Alejandro Osorio
 
-PROXIMA REUNION                    JUEVES 16 DE ABRIL
+Funcionalidad Obligatoria 1        -> JUEVES 9 DE ABRIL 
+- Ian Gómez
 
-Preguntas sobre el DATASET:
+Funcionalidad Obligatoria 2        -> LUNES 13 DE ABRIL
+- Sara Cristancho
 
--¿Cuál es el nivel promedio de glucosa e insulina en pacientes que resultaron positivos de diabetes frente a los que no?
--¿En que rango de edad se concentra la mayor cantidad de pacientes con diagnostico positivo?
--¿Cuál es el IMC (Índice de Masa Corporal) promedio y cuales son los valores máximos y mínimos?
--¿Cuál es el porcentaje de pacientes cuyo diagnostico dio positivo?
--¿Existe alguna relación entre el numero de embarazos y los casos positivos?
+Funcionalidad Opcional             -> LUNES 13 DE ABRIL
+- David Cortés
+
+Próxima reunión                    -> JUEVES 16 DE ABRIL
+
+
+# Preguntas sobre el datset:
+- ¿Cuál es el nivel promedio de glucosa e insulina en pacientes que resultaron positivos de diabetes frente a los que no?
+- ¿En que rango de edad se concentra la mayor cantidad de pacientes con diagnostico positivo?
+- ¿Cuál es el IMC (Índice de Masa Corporal) promedio y cuales son los valores máximos y mínimos?
+- ¿Cuál es el porcentaje de pacientes cuyo diagnostico dio positivo?
+- ¿Existe alguna relación entre los parámetros y los casos positivos?

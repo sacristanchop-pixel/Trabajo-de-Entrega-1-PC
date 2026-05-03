@@ -5,7 +5,7 @@ from logica import cargar_dataset_completo
 # Definimos la ruta al archivo de 200+ registros
 RUTA_DATASET = "Data/diabetes_COMPLETO.csv"
 
-# Llamamos a tu función y guardamos el resultado
+# Llamamos la función y guardamos el resultado
 dataset = cargar_dataset_completo(RUTA_DATASET)
 
 if dataset:
